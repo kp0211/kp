@@ -1,0 +1,12 @@
+body{
+     text-align: center;
+    background-image:  linear-gradient( yellow, orange);
+}
+img{
+    width:20%;
+    height: 40%;
+}
+p{
+    color:firebrick;
+    font-size: 20;
+}
